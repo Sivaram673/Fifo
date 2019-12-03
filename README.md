@@ -80,5 +80,5 @@ int search(int m)
 		if(b[i]==m)
 			return i;
 	}
-	return f;//if page not found in frame then return the frame number
+return f;//if page not found in frame then return the frame number
 }
